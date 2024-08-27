@@ -22,10 +22,10 @@ contains terraforms scripts
 #Terraform keeps track of the infrastructure it manages via a state file (terraform.tfstate).
 
 #File structure
-.
-├── main.tf        # General resources
-├── variables.tf   # Variable definitions
-├── outputs.tf     # Output definitions
-├── network.tf     # Networking resources (VPC, subnets, etc.)
-└── instances.tf   # EC2 instances and related resources
+.  
+├── main.tf        # General resources   
+├── variables.tf   # Variable definitions  
+├── outputs.tf     # Output definitions  
+├── network.tf     # Networking resources (VPC, subnets, etc.)  
+└── instances.tf   # EC2 instances and related resources  
 
